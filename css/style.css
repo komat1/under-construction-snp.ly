@@ -1,0 +1,16 @@
+.bg-banner {
+  background-image: url("/under_construction.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+  position: relative;
+  z-index: 1;
+  position: fixed;
+}
+body {
+  margin: 0;
+  max-width: 100vw;
+  max-height: 100vh;
+}
